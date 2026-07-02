@@ -50,3 +50,10 @@ rl.question("What is your name? ", (name: string) => {
   });
 });
 ```
+
+
+---
+
+### STRECH
+
+It made it into a function and then made it call itself unless the user typed quit. Codex did not help me debug anythng.
